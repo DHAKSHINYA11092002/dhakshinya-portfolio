@@ -1,4 +1,3 @@
-# dhakshinya-portfolio
 # EdTech Learner Analytics
 
 This project analyzes 50,000+ synthetic learner activity logs and builds a dropout prediction model using Logistic Regression.
