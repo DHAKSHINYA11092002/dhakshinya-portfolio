@@ -1,0 +1,5 @@
+student_id,course_id,activity_type,time_spent_min,quiz_score,dropped
+1011,course_1,video_watch,12,,0
+1011,course_1,quiz_attempt,,80,0
+2093,course_2,video_watch,20,,1
+2093,course_2,quiz_attempt,,40,1
